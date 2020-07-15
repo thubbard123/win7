@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target">
+  <Targets>
+    <Target
+      Name="!DotNet No Condensed JS"
+      Type="DotNetHelp"
+      Build="true" />
+    <Target
+      Name="!Mobile No Condensed JS"
+      Type="WebHelpMobile"
+      Build="true" />
+    <Target
+      Name="!WebHelp No Condensed JS"
+      Type="WebHelp"
+      Build="true" />
+    <Target
+      Name="!WH AIR No Condensed JS"
+      Type="WebHelpAir"
+      Build="true" />
+    <Target
+      Name="!WH Plus No Condensed JS"
+      Type="WebHelpPlus"
+      Build="true" />
+    <Target
+      Name="DotNet Condensed JS"
+      Type="DotNetHelp" />
+    <Target
+      Name="HTML Help"
+      Type="HtmlHelp"
+      Build="true" />
+    <Target
+      Name="Mobile Condensed JS"
+      Type="WebHelpMobile" />
+    <Target
+      Name="WebHelp Condensed JS"
+      Type="WebHelp" />
+    <Target
+      Name="WH AIR Condensed JS"
+      Type="WebHelpAir" />
+    <Target
+      Name="WH Plus Condensed JS"
+      Type="WebHelpPlus" />
+  </Targets>
+</CatapultBatchTarget>

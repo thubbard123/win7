@@ -1,0 +1,463 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="ExpandingText.htm"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="xhtml"
+    target-language="fr">
+    <header>
+      <skl><external-file
+          href="ExpandingText.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">43</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 11 r2"
+        tool-name="Lingo"
+        tool-version="11.1.7500.27767"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xml-h1"
+        phase-name="pretrans"><source>ExpandingText</source><seg-source><mrk
+            mtype="seg"
+            mid="1">ExpandingText</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Basic Testing</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Basic Testing</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>There are 2 expanding text links in the paragraph below.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">There are 2 expanding text links in the paragraph below.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Here is a paragraph that will have basic expanding Text. Essentially you will want to click <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expanding xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingHead style="font-weight: bold;"&gt;</bpt>here<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingHead&gt;</ept><bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingBody&gt;</bpt> in order to see the rest of the text.<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingBody&gt;</ept><ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expanding&gt;</ept>Then after you do that you will want to continue on to this next area.<bpt
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expanding xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><bpt
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingHead&gt;</bpt><bpt
+            id="6"
+            ctype="bold" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;b&gt;</bpt>Click this entire section in order to see a really big expanding text block<ept
+            id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/b&gt;</ept>.<ept
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingHead&gt;</ept><bpt
+            id="7" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingBody&gt;</bpt> MadCap Flare is the professional content authoring tool used by technical writers and documentation specialists to create, manage, and publish content for both print and online documentation. Whether used to create content for complex digital print publishing (PDF) or online Help systems (WebHelp and WebHelp Mobile), MadCap Flare provides a robust authoring and publishing solution for your professional technical communication needs.<ept
+            id="7" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingBody&gt;</ept><ept
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expanding&gt;</ept>This is stuff after the expanding text.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Here is a paragraph that will have basic expanding Text.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Essentially you will want to click <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expanding xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingHead style="font-weight: bold;"&gt;</bpt>here<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingHead&gt;</ept><bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingBody&gt;</bpt> in order to see the rest of the text.</mrk><mrk
+            mtype="seg"
+            mid="4"><ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingBody&gt;</ept><ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expanding&gt;</ept>Then after you do that you will want to continue on to this next area.</mrk><mrk
+            mtype="seg"
+            mid="5"><bpt
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expanding xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><bpt
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingHead&gt;</bpt><bpt
+              id="6"
+              ctype="bold" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;b&gt;</bpt>Click this entire section in order to see a really big expanding text block<ept
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/b&gt;</ept>.<ept
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingHead&gt;</ept><bpt
+              id="7" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingBody&gt;</bpt></mrk><mrk
+            mtype="protected"
+            mid="6"> </mrk><mrk
+            mtype="seg"
+            mid="7">MadCap Flare is the professional content authoring tool used by technical writers and documentation specialists to create, manage, and publish content for both print and online documentation.</mrk><mrk
+            mtype="protected"
+            mid="8"> </mrk><mrk
+            mtype="seg"
+            mid="9">Whether used to create content for complex digital print publishing (PDF) or online Help systems (WebHelp and WebHelp Mobile), MadCap Flare provides a robust authoring and publishing solution for your professional technical communication needs.</mrk><mrk
+            mtype="seg"
+            mid="10"><ept
+              id="7" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingBody&gt;</ept><ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expanding&gt;</ept>This is stuff after the expanding text.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="6"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="7"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="8"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="9"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="10"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Advanced testing</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Advanced testing</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xml-li"
+        phase-name="pretrans"><source>Item 1</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Item 1</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xml-li"
+        phase-name="pretrans"><source>Item 2</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Item 2</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xml-li"
+        phase-name="pretrans"><source>Item 3</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Item 3</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xml-madcap:expandinghead"
+        phase-name="pretrans"><source>Click Here for Item 4</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click Here for Item 4</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xml-madcap:expandingbody"
+        phase-name="pretrans"><source>Look what you did! Item 4</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Look what you did!</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Item 4</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xml-madcap:expandinghead"
+        phase-name="pretrans"><source>Click here for a big Item 5</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click here for a big Item 5</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xml-madcap:expandingbody"
+        phase-name="pretrans"><source>MadCap Flare is the professional content authoring tool used by technical writers and documentation specialists to create, manage, and publish content for both print and online documentation. Whether used to create content for complex digital print publishing (PDF) or online Help systems (WebHelp and WebHelp Mobile), MadCap Flare provides a robust authoring and publishing solution for your professional technical communication needs</source><seg-source><mrk
+            mtype="seg"
+            mid="1">MadCap Flare is the professional content authoring tool used by technical writers and documentation specialists to create, manage, and publish content for both print and online documentation.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Whether used to create content for complex digital print publishing (PDF) or online Help systems (WebHelp and WebHelp Mobile), MadCap Flare provides a robust authoring and publishing solution for your professional technical communication needs</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Cell 1</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Cell 1</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Cell 2</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Cell 2</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="15"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Cell 3</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Cell 3</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="16"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Cell 4</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Cell 4</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="17"
+        restype="x-xml-madcap:expandinghead"
+        phase-name="pretrans"><source>Click here for Cell 5</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click here for Cell 5</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="18"
+        restype="x-xml-madcap:expandingbody"
+        phase-name="pretrans"><source>OH NO! Cell 5!</source><seg-source><mrk
+            mtype="seg"
+            mid="1">OH NO!</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Cell 5!</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="19"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Cell 6</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Cell 6</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="20"
+        restype="x-xml-madcap:expandinghead"
+        phase-name="pretrans"><source>Click here for a big Cell 7</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click here for a big Cell 7</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="21"
+        restype="x-xml-madcap:expandingbody"
+        phase-name="pretrans"><source>MadCap Flare is the professional content authoring tool used by technical writers and documentation specialists to create, manage, and publish content for both print and online documentation. Whether used to create content for complex digital print publishing (PDF) or online Help systems (WebHelp and WebHelp Mobile), MadCap Flare provides a robust authoring and publishing solution for your professional technical communication needs</source><seg-source><mrk
+            mtype="seg"
+            mid="1">MadCap Flare is the professional content authoring tool used by technical writers and documentation specialists to create, manage, and publish content for both print and online documentation.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Whether used to create content for complex digital print publishing (PDF) or online Help systems (WebHelp and WebHelp Mobile), MadCap Flare provides a robust authoring and publishing solution for your professional technical communication needs</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="22"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Cell 8</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Cell 8</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="23"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Cell 9</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Cell 9</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="24"
+        restype="x-xml-p"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expanding xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>
+                <bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingHead&gt;</bpt>Embed Testing<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingHead&gt;</ept>
+                <bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingBody&gt;</bpt>
+                    <bpt
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expanding&gt;</bpt>
+                        <bpt
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingHead&gt;</bpt>Again<ept
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingHead&gt;</ept>
+                        <bpt
+            id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingBody&gt;</bpt>  MadCap Flare is the professional content authoring tool used by technical writers and documentation specialists to create, manage, and publish content for both print and online documentation. Whether used to create content for complex digital print publishing (PDF) or online Help systems (WebHelp and WebHelp Mobile), MadCap Flare provides a robust authoring and publishing solution for your professional technical communication needs<ept
+            id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingBody&gt;</ept>
+                    <ept
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expanding&gt;</ept>
+                <ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingBody&gt;</ept>
+            <ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expanding&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expanding xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt> <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingHead&gt;</bpt>Embed Testing<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingHead&gt;</ept> <bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingBody&gt;</bpt> <bpt
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expanding&gt;</bpt> <bpt
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingHead&gt;</bpt>Again<ept
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingHead&gt;</ept> <bpt
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:expandingBody&gt;</bpt>  MadCap Flare is the professional content authoring tool used by technical writers and documentation specialists to create, manage, and publish content for both print and online documentation.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Whether used to create content for complex digital print publishing (PDF) or online Help systems (WebHelp and WebHelp Mobile), MadCap Flare provides a robust authoring and publishing solution for your professional technical communication needs<ept
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingBody&gt;</ept> <ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expanding&gt;</ept> <ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expandingBody&gt;</ept> <ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:expanding&gt;</ept>.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

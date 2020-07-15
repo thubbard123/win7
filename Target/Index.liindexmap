@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap
+  NeedsRefreshCorrection="false">
+  <Entry
+    Status="Untranslated">
+  <Key>Help Control</Key>
+  <OldValue>Help Control</OldValue>
+  <NewValue>Help Control</NewValue>
+</Entry>
+</StringMap>

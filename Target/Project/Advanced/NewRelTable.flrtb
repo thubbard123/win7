@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<reltable xmlns="http://docs.oasis-open.org/dita/v1.1/schema/ditabase.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <relheader>
+        <relcolspec type="concept" />
+        <relcolspec type="task" />
+        <relcolspec type="reference" />
+    </relheader>
+    <relrow class="">
+        <relcell>
+            <topicref href="/Content/RelTable/Concepts/Concept1.htm" />
+        </relcell>
+        <relcell>
+            <topicref href="/Content/RelTable/Tasks/Task1.htm" />
+        </relcell>
+        <relcell>
+            <topicref href="/Content/RelTable/References/Ref1.htm" />
+        </relcell>
+    </relrow>
+    <relrow>
+        <relcell>
+            <topicref href="/Content/RelTable/Concepts/Concept1.htm" />
+            <topicref href="/Content/RelTable/Concepts/Concept2.htm" />
+        </relcell>
+        <relcell />
+        <relcell>
+            <topicref href="/Content/RelTable/References/Ref1.htm" />
+        </relcell>
+    </relrow>
+    <relrow>
+        <relcell>
+            <topicgroup collection-type="family">
+                <topicref href="/Content/RelTable/Concepts/Concept2.htm" />
+                <topicref href="/Content/RelTable/Concepts/Concept3.htm" />
+                <topicref href="/Content/RelTable/Concepts/Concept4.htm" />
+            </topicgroup>
+        </relcell>
+        <relcell>
+            <topicref href="/Content/RelTable/Tasks/Task2.htm" />
+        </relcell>
+        <relcell>
+            <topicref href="/Content/RelTable/References/Ref1.htm" />
+            <topicref href="/Content/RelTable/References/Ref2.htm" />
+        </relcell>
+    </relrow>
+</reltable>

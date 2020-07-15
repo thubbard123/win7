@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="10" MadCap:lastHeight="639" MadCap:lastWidth="1010" xml:space="preserve">
+    <head>
+        <link href="Resources/TableStyles/Basic.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <h1>砻קยด1ตว融</h1>
+        <p>
+            <MadCap:popup>
+                <MadCap:popupHead>砻קยด2ตว融</MadCap:popupHead>
+                <MadCap:popupBody>砻קยด3ตว融</MadCap:popupBody>
+            </MadCap:popup>
+        </p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>砻קยด4ตว融</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:popup>
+                        <MadCap:popupHead>砻קยด5ตว融</MadCap:popupHead>
+                        <MadCap:popupBody>砻קยด6ตว融</MadCap:popupBody>
+                    </MadCap:popup>
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p>&#160;</p>
+        <MadCap:snippetBlock src="Resources/Snippets/TextPopup.flsnp" />
+        <p>&#160;</p>
+        <p>
+            <MadCap:expanding>
+                <MadCap:expandingHead>砻קยด7ตว融</MadCap:expandingHead>
+                <MadCap:expandingBody>
+                    <MadCap:popup>
+                        <MadCap:popupHead>砻קยด8ตว融</MadCap:popupHead>
+                        <MadCap:popupBody>砻קยด9ตว融</MadCap:popupBody>
+                    </MadCap:popup>
+                </MadCap:expandingBody>
+            </MadCap:expanding>
+        </p>
+        <p>&#160;</p>
+        <p><MadCap:toggler targets="TogglerText">砻קยด10ตว融</MadCap:toggler></p>
+        <p MadCap:targetName="TogglerText">
+            <MadCap:popup>
+                <MadCap:popupHead>砻קยด11ตว融</MadCap:popupHead>
+                <MadCap:popupBody>砻קยด12ตว融</MadCap:popupBody>
+            </MadCap:popup>
+        </p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <table style="width: 100%; caption-side: top; mc-table-style: url('Resources/TableStyles/Basic.css');" class="TableStyle-Basic" cellspacing="0">
+            <col class="Column-Column1" />
+            <tbody>
+                <tr class="Body-Body1">
+                    <td class="BodyD-Column1-Body1">
+                        <p>
+                            <MadCap:popup>
+                                <MadCap:popupHead>砻קยด13ตว融</MadCap:popupHead>
+                                <MadCap:popupBody>砻קยด14ตว融</MadCap:popupBody>
+                            </MadCap:popup>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="Body-Body1">
+                    <td class="BodyD-Column1-Body1">
+                        <MadCap:dropDown>
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>砻קยด15ตว融</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>
+                                    <MadCap:popup>
+                                        <MadCap:popupHead>砻קยด16ตว融</MadCap:popupHead>
+                                        <MadCap:popupBody>砻קยด17ตว融</MadCap:popupBody>
+                                    </MadCap:popup>
+                                </p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </td>
+                </tr>
+                <tr class="Body-Body1">
+                    <td class="BodyD-Column1-Body1">
+                        <p>
+                            <MadCap:expanding>
+                                <MadCap:expandingHead>砻קยด18ตว融</MadCap:expandingHead>
+                                <MadCap:expandingBody>
+                                    <MadCap:popup>
+                                        <MadCap:popupHead>砻קยด19ตว融</MadCap:popupHead>
+                                        <MadCap:popupBody>砻קยด20ตว融</MadCap:popupBody>
+                                    </MadCap:popup>
+                                </MadCap:expandingBody>
+                            </MadCap:expanding>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="Body-Body1">
+                    <td class="BodyD-Column1-Body1">
+                        <p><MadCap:toggler targets="TogglerText">砻קยด21ตว融</MadCap:toggler></p>
+                    </td>
+                </tr>
+                <tr class="Body-Body1">
+                    <td class="BodyD-Column1-Body1">
+                        <p MadCap:targetName="TogglerText">
+                            <MadCap:popup>
+                                <MadCap:popupHead>砻קยด22ตว融</MadCap:popupHead>
+                                <MadCap:popupBody>砻קยด23ตว融</MadCap:popupBody>
+                            </MadCap:popup>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="Body-Body1">
+                    <td class="BodyA-Column1-Body1">
+                        <MadCap:snippetBlock src="Resources/Snippets/TextPopup.flsnp" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&#160;</p>
+        <ul>
+            <li>
+                <MadCap:popup>
+                    <MadCap:popupHead>砻קยด24ตว融</MadCap:popupHead>
+                    <MadCap:popupBody>砻קยด25ตว融</MadCap:popupBody>
+                </MadCap:popup>
+            </li>
+            <li>
+                <MadCap:dropDown>
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>砻קยด26ตว融</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <p>
+                            <MadCap:popup>
+                                <MadCap:popupHead>砻קยด27ตว融</MadCap:popupHead>
+                                <MadCap:popupBody>砻קยด28ตว融</MadCap:popupBody>
+                            </MadCap:popup>
+                        </p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li>
+                <MadCap:snippetBlock src="Resources/Snippets/TextPopup.flsnp" />
+            </li>
+            <li>
+                <p>
+                    <MadCap:expanding>
+                        <MadCap:expandingHead>砻קยด29ตว融</MadCap:expandingHead>
+                        <MadCap:expandingBody>
+                            <MadCap:popup>
+                                <MadCap:popupHead>砻קยด30ตว融</MadCap:popupHead>
+                                <MadCap:popupBody>砻קยด31ตว融</MadCap:popupBody>
+                            </MadCap:popup>
+                        </MadCap:expandingBody>
+                    </MadCap:expanding>
+                </p>
+            </li>
+            <li>
+                <p><MadCap:toggler targets="TogglerText">砻קยด32ตว融</MadCap:toggler></p>
+            </li>
+            <li>
+                <p MadCap:targetName="TogglerText">
+                    <MadCap:popup>
+                        <MadCap:popupHead>砻קยด33ตว融</MadCap:popupHead>
+                        <MadCap:popupBody>砻קยด34ตว融</MadCap:popupBody>
+                    </MadCap:popup>
+                </p>
+            </li>
+        </ul>
+    </body>
+</html>

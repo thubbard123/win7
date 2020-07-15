@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="TopicPopups"
+    Link="/Content/TopicPopups.htm" />
+  <TocEntry
+    Title="Togglers"
+    Link="/Content/Togglers.htm" />
+  <TocEntry
+    Title="TextPopups"
+    Link="/Content/TextPopups.htm" />
+  <TocEntry
+    Title="GlossaryTermLinks"
+    Link="/Content/GlossaryTermLinks.htm" />
+  <TocEntry
+    Title="ExpandingText"
+    Link="/Content/ExpandingText.htm" />
+  <TocEntry
+    Title="DropDowns"
+    Link="/Content/DropDowns.htm" />
+  <TocEntry
+    Title="RelatedTopics"
+    Link="/Content/HelpControls/RelatedTopics.htm" />
+  <TocEntry
+    Title="KLinkControl"
+    Link="/Content/HelpControls/KLinkControl.htm" />
+  <TocEntry
+    Title="ALinkControl"
+    Link="/Content/HelpControls/ALinkControl.htm" />
+</CatapultToc>

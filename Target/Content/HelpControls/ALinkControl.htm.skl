@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="345" MadCap:lastWidth="916" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <h1><MadCap:keyword term="Help Control" />
+            <MadCap:concept term="HelpControl" />砻קยด8ตว融</h1>
+        <p>砻קยด9ตว融</p>
+        <p>
+            <MadCap:conceptLink target="_parent" term="HelpControl" />
+        </p>
+        <p>&#160;</p>
+        <p>砻קยด10ตว融</p>
+        <p>
+            <MadCap:conceptLink target="_blank" term="HelpControl" />
+        </p>
+        <p>&#160;</p>
+        <p>砻קยด11ตว融</p>
+        <p>
+            <MadCap:conceptLink target="_self" term="HelpControl" />
+        </p>
+        <p>&#160;</p>
+        <p>砻קยด12ตว融</p>
+        <p>
+            <MadCap:conceptLink target="_top" term="HelpControl" />
+        </p>
+        <p>&#160;</p>
+        <p>砻קยด13ตว融</p>
+        <p>
+            <MadCap:conceptLink target="_popup" term="HelpControl" />
+        </p>
+    </body>
+</html>

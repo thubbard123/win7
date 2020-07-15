@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="New Target" Type="WebHelp2" Destinations="" GlossaryTermConversion="marked" MinifyJavaScript="false" SearchDatabaseChunkSize="30000" TOCChunkSize="30000" IndexChunkSize="30000" MasterPage="/Content/Resources/MasterPages/MasterPage.flmsp" InsertMOTW="true" Skin="/Project/Skins/HTML5.flskn">
+    <Destinations>
+        <Destination Link="/Project/Destinations/MyDestination.fldes" />
+    </Destinations>
+</CatapultTarget>

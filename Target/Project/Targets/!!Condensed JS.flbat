@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget Version="1" Comment="New Batch Target" Guid="5205f22c-a098-43d8-a699-bce73d484992">
+    <Targets>
+        <Target Icon="System.Drawing.Bitmap" Name="!DotNet No Condensed JS" Type="DotNet Help" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="!HTML5 No Condensed JS" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="!Mobile No Condensed JS" Type="WebHelp Mobile" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="!WH AIR No Condensed JS" Type="WebHelp AIR" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="!WH Plus No Condensed JS" Type="WebHelp" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="DotNet Condensed JS" Type="DotNet Help" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Eclipse Condensed JS" Type="WebHelp" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="HTML Help" Type="HTML Help" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="HTML5 Condensed JS" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Mobile Condensed JS" Type="WebHelp Mobile" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="MyWebHelp" Type="WebHelp" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="WebHelp Condensed JS" Type="WebHelp" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="WH AIR Condensed JS" Type="WebHelp AIR" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="WH Plus Condensed JS" Type="WebHelp Plus" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Word" Type="Word" Build="true" />
+    </Targets>
+</CatapultBatchTarget>

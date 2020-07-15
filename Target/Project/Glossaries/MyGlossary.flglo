@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry>
+    <Terms>
+      <Term>content</Term>
+    </Terms>
+    <Definition>glossary term with text definition</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>Toggler</Term>
+    </Terms>
+    <Definition
+      Link="/Content/Togglers.htm"></Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Expanding">
+    <Terms>
+      <Term>Expand</Term>
+    </Terms>
+    <Definition
+      Link="">expanding text definition</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Hyperlink">
+    <Terms>
+      <Term>Hyperlink</Term>
+    </Terms>
+    <Definition
+      Link="/Content/Topic.htm"></Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>popup</Term>
+    </Terms>
+    <Definition
+      Link="">how about giving it a definition</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

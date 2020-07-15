@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="1261" MadCap:lastWidth="977" xml:space="preserve">
+    <head>
+    </head>
+    <map id="map1">
+        <area shape="circle" coords="95,83,78" href="CHMSupport/TestCHM.chm::/LinkToThis.htm" target="_parent" />
+    </map>
+    <map id="map2">
+        <area shape="circle" coords="95,83,78" href="CHMSupport/TestCHM.chm::/LinkToThis.htm" target="_blank" />
+    </map>
+    <map id="map3">
+        <area shape="circle" coords="95,83,78" href="CHMSupport/TestCHM.chm::/LinkToThis.htm" target="_self" />
+    </map>
+    <map id="map4">
+        <area shape="circle" coords="95,83,78" href="CHMSupport/TestCHM.chm::/LinkToThis.htm" target="_top" />
+    </map>
+    <map id="map5">
+        <area shape="circle" coords="95,83,78" href="CHMSupport/TestCHM.chm::/LinkToThis.htm" target="_popup" />
+    </map>
+    <body>
+        <h1>砻קยด1ตว融</h1>
+        <p>砻קยด2ตว融</p>
+        <p>&#160;</p>
+        <p><a href="CHMSupport/TestCHM.chm::/LinkToThis.htm">砻קยด3ตว融</a></p>
+        <p>&#160;</p>
+        <p><a href="CHMSupport/TestCHM.chm::/LinkToThis.htm" target="_popup">砻קยด4ตว融</a></p>
+        <p>&#160;</p>
+        <p>砻קยด5ตว融</p>
+        <p>
+            <img src="Resources/Images/Cartman2.bmp" usemap="#map1" style="width: 192px;height: 167px;" />
+        </p>
+        <p>砻קยด6ตว融</p>
+        <p>
+            <img src="Resources/Images/Cartman2.bmp" usemap="#map2" style="width: 215px;height: 187px;" />
+        </p>
+        <p>&#160;</p>
+        <p>砻קยด7ตว融</p>
+        <p>
+            <img src="Resources/Images/Cartman2.bmp" usemap="#map3" style="width: 213px;height: 185px;" />
+        </p>
+        <p>&#160;</p>
+        <p>砻קยด8ตว融</p>
+        <p>
+            <img src="Resources/Images/Cartman2.bmp" usemap="#map4" style="width: 205px;height: 177px;" />
+        </p>
+        <p>&#160;</p>
+        <p>砻קยด9ตว融</p>
+        <p>&#160;</p>
+        <p>
+            <img src="Resources/Images/Cartman2.bmp" usemap="#map5" style="width: 192px;height: 167px;" />
+        </p>
+    </body>
+</html>

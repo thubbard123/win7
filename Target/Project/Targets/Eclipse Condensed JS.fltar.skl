@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="1" Comment="New Target" Type="WebHelp" Destinations="" GlossaryTermConversion="marked" GenerateWebSafeImages="false" WebSafeFileExtension="jpg" PreCompileScaledImages="false" ConditionTagExpression="exclude[Default.PrintOnly] " MasterBookTopic="/Content/Topic.htm" PluginProvider="Adam@Sandler" PluginName="Water&amp;%Boy" PluginID="s" PluginVersion="0.0">
+    <PrintedOutput CollapseMargins="true" />
+</CatapultTarget>

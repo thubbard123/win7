@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="XrefTest.htm"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="xhtml"
+    target-language="fr">
+    <header>
+      <skl><external-file
+          href="XrefTest.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">16</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">8</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 11 r2"
+        tool-name="Lingo"
+        tool-version="11.1.7500.27767"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-madcap:xref-title"
+        phase-name="pretrans"><source>parent frame</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:conditions="Default.ScreenOnly"
+            MadCap:parentConditions="Default.ScreenOnly"
+            comment="MadCap:xref">parent frame</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-madcap:xref-alt"
+        phase-name="pretrans"><source>parent frame</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:conditions="Default.ScreenOnly"
+            MadCap:parentConditions="Default.ScreenOnly"
+            comment="MadCap:xref">parent frame</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-madcap:xref-title"
+        phase-name="pretrans"><source>New Window</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:conditions="Default.PrintOnly"
+            MadCap:parentConditions="Default.PrintOnly"
+            comment="MadCap:xref">New Window</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xhtml-madcap:xref-alt"
+        phase-name="pretrans"><source>New Window</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:conditions="Default.PrintOnly"
+            MadCap:parentConditions="Default.PrintOnly"
+            comment="MadCap:xref">New Window</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xhtml-madcap:xref-title"
+        phase-name="pretrans"><source>top frame</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="MadCap:xref">top frame</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xhtml-madcap:xref-alt"
+        phase-name="pretrans"><source>top frame</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="MadCap:xref">top frame</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xhtml-madcap:xref-title"
+        phase-name="pretrans"><source>Popup Window</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="MadCap:xref">Popup Window</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xhtml-madcap:xref-alt"
+        phase-name="pretrans"><source>Popup Window</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="MadCap:xref">Popup Window</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xml-h1"
+        phase-name="pretrans"><source>Xref Test</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Xref Test</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Delete this text and replace it with your own content.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Delete this text and replace it with your own content.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xml-p"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="Xref2.htm" title="" alt="" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;See "Xref2"&lt;/MadCap:xref&gt;</ph>: page default</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:conditions="Default.PrintOnly"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="Xref2.htm" title="" alt="" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;See "Xref2"&lt;/MadCap:xref&gt;</ph>: page default</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xml-p"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="Xref2.htm" target="_parent" title="<sub
+              ctype="x-xhtml-madcap:xref-title"
+              datatype="xhtml"
+              xid="1" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+              ctype="x-xhtml-madcap:xref-alt"
+              datatype="xhtml"
+              xid="2" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;See "Xref2"&lt;/MadCap:xref&gt;</ph>: parent frame</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:conditions="Default.ScreenOnly"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="Xref2.htm" target="_parent" title="<sub
+                ctype="x-xhtml-madcap:xref-title"
+                datatype="xhtml"
+                xid="1" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+                ctype="x-xhtml-madcap:xref-alt"
+                datatype="xhtml"
+                xid="2" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;See "Xref2"&lt;/MadCap:xref&gt;</ph>: parent frame</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xml-p"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="Xref2.htm" target="_blank" title="<sub
+              ctype="x-xhtml-madcap:xref-title"
+              datatype="xhtml"
+              xid="3" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+              ctype="x-xhtml-madcap:xref-alt"
+              datatype="xhtml"
+              xid="4" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;See "Xref2"&lt;/MadCap:xref&gt;</ph>: New Window</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:conditions="Default.PrintOnly"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="Xref2.htm" target="_blank" title="<sub
+                ctype="x-xhtml-madcap:xref-title"
+                datatype="xhtml"
+                xid="3" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+                ctype="x-xhtml-madcap:xref-alt"
+                datatype="xhtml"
+                xid="4" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;See "Xref2"&lt;/MadCap:xref&gt;</ph>: New Window</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xml-p"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="Xref2.htm" target="_self" title="" alt="" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;See "Xref2"&lt;/MadCap:xref&gt;</ph>: Same Frame</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:conditions="Default.ScreenOnly"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="Xref2.htm" target="_self" title="" alt="" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;See "Xref2"&lt;/MadCap:xref&gt;</ph>: Same Frame</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="15"
+        restype="x-xml-p"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="Xref2.htm" target="_top" title="<sub
+              ctype="x-xhtml-madcap:xref-title"
+              datatype="xhtml"
+              xid="5" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+              ctype="x-xhtml-madcap:xref-alt"
+              datatype="xhtml"
+              xid="6" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;See "Xref2"&lt;/MadCap:xref&gt;</ph>: top frame</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="Xref2.htm" target="_top" title="<sub
+                ctype="x-xhtml-madcap:xref-title"
+                datatype="xhtml"
+                xid="5" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+                ctype="x-xhtml-madcap:xref-alt"
+                datatype="xhtml"
+                xid="6" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;See "Xref2"&lt;/MadCap:xref&gt;</ph>: top frame</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="16"
+        restype="x-xml-p"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="Xref2.htm" target="_popup" title="<sub
+              ctype="x-xhtml-madcap:xref-title"
+              datatype="xhtml"
+              xid="7" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+              ctype="x-xhtml-madcap:xref-alt"
+              datatype="xhtml"
+              xid="8" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;See "Xref2"&lt;/MadCap:xref&gt;</ph>: Popup Window</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="Xref2.htm" target="_popup" title="<sub
+                ctype="x-xhtml-madcap:xref-title"
+                datatype="xhtml"
+                xid="7" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+                ctype="x-xhtml-madcap:xref-alt"
+                datatype="xhtml"
+                xid="8" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;See "Xref2"&lt;/MadCap:xref&gt;</ph>: Popup Window</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>
