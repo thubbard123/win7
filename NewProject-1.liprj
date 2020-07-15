@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LingoProject TargetLanguage="fr;de" xml:lang="fr" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="0d8f7bc6-8cb3-489d-968f-6362498b34e9">
+<LingoProject TargetLanguage="fr;de" xml:lang="fr" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="0d8f7bc6-8cb3-489d-968f-6362498b34e9" ActiveLanguage="fr">
     <ProjectFile Source="Target/!JavaScriptFileTesting.flprj" Target="Target/!JavaScriptFileTesting.flprj" />
 </LingoProject>
